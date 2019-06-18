@@ -19,6 +19,8 @@ Flask+Redis维护Cookies池
 
 # Cookies池架构
 
+![](https://github.com/huxiaotian180/ImageCache/raw/master/Loge/cookies.png)
+
 
 
 
